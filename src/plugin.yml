@@ -1,0 +1,13 @@
+name: BuildFFA
+author: STRG5
+version: 1.0.2
+main: me.main.Main
+
+commands:
+  setup:
+  addmap:
+  delete:
+  setitems:
+  vanish:
+    aliases: [v]
+  stats:
